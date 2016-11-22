@@ -11,7 +11,7 @@ The developed project implement the following functionality:
 
 * To connect server the client will sign in using a username and a password (Users Class).
 
-* The communication between clients can use by Chat rooms, Each chat room has admin that can manage the room.
+* The communication between clients can use by Chat rooms, Each chat room has an admin who can manage the room.
 
 * Messenger Server App and Messenger Client App using a CLI.
 
